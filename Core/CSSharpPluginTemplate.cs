@@ -1,12 +1,12 @@
 ﻿using CounterStrikeSharp.API.Core;
 using CounterStrikeSharp.API.Core.Attributes;
 
-namespace CSSharpPluginTemplate
+namespace CSSharpPluginTemplate.Core
 {
-    [MinimumApiVersion(305)] // As of 3/16/2025
+    [MinimumApiVersion(305)]
     public class CSSharpPluginTemplate : BasePlugin
     {
-        public override string ModuleName => "PLUGIN_NAME";
+        public override string ModuleName => "CHANGE_PLUGIN_NAME";
         public override string ModuleVersion => "CHANGE_PLUGIN_VERSION";
         public override string ModuleAuthor => "CHANGE_PLUGIN_AUTHOR";
         public override string ModuleDescription => "CHANGE_PLUGIN_DESCRIPTION";

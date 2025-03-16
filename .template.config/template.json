@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "AleksandarHaralanov",
+  "classifications": [ "CS2", "Plugin" ],
+  "identity": "AleksandarHaralanov.CS2.CounterStrikeSharp.PluginTemplate",
+  "name": "CS2 CSSharp Plugin Template",
+  "shortName": "cs2plugin",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "CSSharpPluginTemplate",
+  "preferNameDirectory": true
+}
